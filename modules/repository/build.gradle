@@ -1,0 +1,4 @@
+dependencies {
+    //runtime project(':model')
+    compile project(':model')
+}
